@@ -28,6 +28,7 @@ const Home: React.FC = () => {
           </div>
         </div> */}
         <a
+        
               className="flex text-xl font-semibold text-white focus:outline-none focus:ring-1 focus:ring-gray-600"
               href="#"
               aria-label="Brand"
